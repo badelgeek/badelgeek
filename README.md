@@ -31,6 +31,7 @@
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=badelgeek&show_icons=true&theme=algolia&count_private=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=badelgeek&theme=algolia" width = 400>
+  <img src="https://activity-graph.herokuapp.com/graph?username=badelgeek&theme=react-dark" />
   <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=badelgeek&layout=default&theme=algolia" > -->
 </p>
 
