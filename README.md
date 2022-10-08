@@ -1,6 +1,5 @@
-<h4>⚡️ Hello World ⚡️</h4><br/>
+## ⚡️ Hello World - My name is <strong>Abdelkarim</strong> ⚡️</h4><br/>
 <p>
-  🧔 My name is <strong>Abdelkarim</strong><br/>
   💼 I live in Paris (France)<br/>
   💻 Web Developper<br/>
   </p>
@@ -27,9 +26,11 @@
      </p>
     </div>
 
-  <div>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=badelgeek&show_icons=true&count_private=true&hide_border=false&line_height=20&show_owner=true"/>
-  </div>
+<p align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api?username=badelgeek&show_icons=true&theme=algolia&count_private=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=badelgeek&theme=algolia" width = 400>
+  <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=badelgeek&layout=default&theme=algolia" > -->
+</p>
 
 
 
