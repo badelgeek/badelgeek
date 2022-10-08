@@ -1,4 +1,6 @@
-## ⚡️ Hello World - My name is <strong>Abdelkarim</strong> ⚡️</h4><br/>
+## ⚡️ Hello World - My name is <strong>Abdelkarim</strong> ⚡️ <a href="https://twitter.com/badelgeek" target="_blank" rel="nofollow"><img align="right" alt="Abdelkarim Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/abdelkarim-mehiaoui" target="_blank" rel="nofollow"><img align="right" alt="Abdelkarim Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+
+
 <p>
   💼 I live in Paris (France)<br/>
   💻 Web Developper<br/>
