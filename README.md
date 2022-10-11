@@ -1,4 +1,4 @@
-## ⚡️ Hello World - My name is <strong>Abdelkarim</strong> ⚡️ <a href="https://twitter.com/badelgeek" target="_blank" rel="nofollow"><img align="right" alt="Abdelkarim Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/abdelkarim-mehiaoui" target="_blank" rel="nofollow"><img align="right" alt="Abdelkarim Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+## ⚡️ Hello World - I am <strong>Abdelkarim</strong> ⚡️ <a href="https://twitter.com/badelgeek" target="_blank" rel="nofollow"><a href="https://www.linkedin.com/in/abdelkarim-mehiaoui" target="_blank" rel="nofollow"><img align="right" alt="Abdelkarim Linkdein" height="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 <p>
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>    
-    <!--
+    <!-- LOGOS
     https://dev.to/envoy_/150-badges-for-github-pnk
     <br>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
