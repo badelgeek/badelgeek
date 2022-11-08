@@ -15,6 +15,7 @@
   <h2>Back End Stack</h2>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/EJS-E0EFEF?style=for-the-badge"/>
     <!-- LOGOS
     https://dev.to/envoy_/150-badges-for-github-pnk
     <br>
@@ -27,7 +28,7 @@
     <br>      
       <img src="https://img.shields.io/badge/-Git-F44D27?style=for-the-badge&logo=Git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NPM-FF1B2D?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/NPM-E0EFEF?style=for-the-badge&logo=npm&logoColor=000"/>
     <p>
       <img src="https://img.shields.io/badge/-Slack-E01563?style=for-the-badge&logo=Slack&logoColor=white"/>
      </p>
