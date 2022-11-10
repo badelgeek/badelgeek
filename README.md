@@ -1,4 +1,4 @@
-## ⚡️ Hello World - I am <strong>Abdelkarim</strong> ⚡️ <a href="https://twitter.com/badelgeek" target="_blank" rel="nofollow"><a href="https://www.linkedin.com/in/abdelkarim-mehiaoui" target="_blank" rel="nofollow"><img align="right" alt="Abdelkarim Linkdein" height="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+## ⚡️ ` Hello World, I am Abdelkarim ` ⚡️ <a href="https://twitter.com/badelgeek" target="_blank" rel="nofollow"><a href="https://www.linkedin.com/in/abdelkarim-mehiaoui" target="_blank" rel="nofollow"><img align="right" alt="Abdelkarim Linkdein" height="auto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 <p>
